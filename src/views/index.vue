@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-red-500 h-100">
-
+    <div class="flex items-center justify-center h-screen">
+        <h1 class="font-bold text-4xl widest">PORTFOLIO</h1>
     </div>
 </template>
 
